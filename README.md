@@ -1,6 +1,6 @@
 # Web development Project
 
-A E-coomerce Website name **E-store**. The website consist of 8 HTML/php pages.The website consist of HTML, CSS,
+A E-commerce Website name **Greenleaf Elektronics**. The website consist of 8 HTML/php pages.The website consist of HTML, CSS,
 BOOTSTRAP, PHP and MYSQLI code. The HTML, CSS and BOOTSTRAP part of this code decides 
 website look, while the PHP and MySQL part decides  it functions.
 
@@ -108,10 +108,5 @@ pages, he/she if redirected to the index page of the website. In this case, clic
 the user to the index page.
 Once the user is logged in, he/she cannot navigate to either the index page or the login page and is redirected to the
 home page. In this case, clicking on the logo from any page redirects the user to the home page.
-## Author
-* **Sarvesh Kumar Sharma** -(https://github.com/shsarv)
 
-## Acknowledgments
-
-* for any enquiry email-(**shsarv@gmail.com**)
 
