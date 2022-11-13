@@ -1,0 +1,66 @@
+[15-Oct-2022 04:18:02 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[15-Oct-2022 04:18:02 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[15-Oct-2022 10:43:58 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/logi.php on line 2
+[15-Oct-2022 10:43:58 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/logi.php on line 2
+[15-Oct-2022 10:44:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/logi.php on line 2
+[15-Oct-2022 10:44:26 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/logi.php on line 2
+[16-Oct-2022 04:22:50 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[16-Oct-2022 04:22:50 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[17-Oct-2022 04:22:50 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[17-Oct-2022 04:22:50 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[18-Oct-2022 04:24:57 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[18-Oct-2022 04:24:57 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[19-Oct-2022 04:17:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[19-Oct-2022 04:17:42 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[20-Oct-2022 04:20:55 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[20-Oct-2022 04:20:55 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[21-Oct-2022 04:20:14 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[21-Oct-2022 04:20:14 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[22-Oct-2022 04:22:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[22-Oct-2022 04:22:26 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[23-Oct-2022 04:19:45 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[23-Oct-2022 04:19:45 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[24-Oct-2022 04:19:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[24-Oct-2022 04:19:46 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[25-Oct-2022 04:18:49 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[25-Oct-2022 04:18:49 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[26-Oct-2022 04:18:52 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[26-Oct-2022 04:18:52 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[27-Oct-2022 04:17:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[27-Oct-2022 04:17:39 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[28-Oct-2022 04:18:12 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[28-Oct-2022 04:18:12 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[29-Oct-2022 04:18:20 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[29-Oct-2022 04:18:20 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[29-Oct-2022 10:23:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/adeshlan/public_html/search2.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/adeshlan/public_html/search2.php on line 10
+[30-Oct-2022 04:21:13 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[30-Oct-2022 04:21:13 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[31-Oct-2022 04:22:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[31-Oct-2022 04:22:47 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[01-Nov-2022 04:16:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[01-Nov-2022 04:16:35 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[02-Nov-2022 04:22:41 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[02-Nov-2022 04:22:41 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[03-Nov-2022 04:17:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[03-Nov-2022 04:17:10 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[04-Nov-2022 04:21:17 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[04-Nov-2022 04:21:17 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[05-Nov-2022 04:17:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[05-Nov-2022 04:17:15 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[07-Nov-2022 04:22:13 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[07-Nov-2022 04:22:13 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[08-Nov-2022 04:19:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[08-Nov-2022 04:19:03 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[08-Nov-2022 04:19:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[08-Nov-2022 04:19:06 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[09-Nov-2022 04:16:55 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[09-Nov-2022 04:16:55 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[10-Nov-2022 04:20:24 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[10-Nov-2022 04:20:24 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[11-Nov-2022 04:16:09 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[11-Nov-2022 04:16:09 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
+[12-Nov-2022 04:22:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/adeshlan/public_html/cart_added.php on line 15
+[12-Nov-2022 04:22:04 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/adeshlan/public_html/cart_added.php on line 15
